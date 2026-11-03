@@ -1,0 +1,294 @@
+{
+ "actual": {
+  "aliases": [
+   "aci",
+   "actual-computer",
+   "actualcomputer"
+  ],
+  "env": "ACTUAL_API_KEY"
+ },
+ "ai-gateway": {
+  "aliases": [
+   "ai_gateway",
+   "aigateway",
+   "vercel",
+   "vercel-ai-gateway"
+  ],
+  "env": "AI_GATEWAY_API_KEY"
+ },
+ "alibaba": {
+  "aliases": [
+   "alibaba-cloud",
+   "aliyun",
+   "dashscope",
+   "qwen-dashscope"
+  ],
+  "env": "DASHSCOPE_API_KEY"
+ },
+ "alibaba-cn": {
+  "aliases": [
+   "alibaba-cloud-cn",
+   "dashscope-cn"
+  ],
+  "env": "DASHSCOPE_API_KEY"
+ },
+ "alibaba-coding-plan": {
+  "aliases": [
+   "alibaba-coding",
+   "alibaba_coding",
+   "dashscope-coding"
+  ],
+  "env": "ALIBABA_CODING_PLAN_API_KEY"
+ },
+ "alibaba-coding-plan-cn": {
+  "aliases": [
+   "alibaba-coding-cn",
+   "dashscope-coding-cn"
+  ],
+  "env": "ALIBABA_CODING_PLAN_CN_API_KEY"
+ },
+ "alibaba-token-plan": {
+  "aliases": [
+   "dashscope-token-plan"
+  ],
+  "env": "ALIBABA_TOKEN_PLAN_API_KEY"
+ },
+ "alibaba-token-plan-cn": {
+  "aliases": [
+   "dashscope-token-plan-cn"
+  ],
+  "env": "ALIBABA_TOKEN_PLAN_CN_API_KEY"
+ },
+ "anthropic": {
+  "aliases": [
+   "claude",
+   "claude-code",
+   "claude-oauth"
+  ],
+  "env": "ANTHROPIC_API_KEY"
+ },
+ "arcee": {
+  "aliases": [
+   "arcee-ai",
+   "arceeai"
+  ],
+  "env": "ARCEEAI_API_KEY"
+ },
+ "azure-foundry": {
+  "aliases": [
+   "azure",
+   "azure-ai",
+   "azure-ai-foundry"
+  ],
+  "env": "AZURE_FOUNDRY_API_KEY"
+ },
+ "commandcode": {
+  "aliases": [
+   "commandcode-chat"
+  ],
+  "env": "COMMANDCODE_API_KEY"
+ },
+ "commandcode-anthropic": {
+  "aliases": [
+   "commandcode-claude"
+  ],
+  "env": "COMMANDCODE_API_KEY"
+ },
+ "deepinfra": {
+  "aliases": [
+   "deep-infra",
+   "deepinfra-ai"
+  ],
+  "env": "DEEPINFRA_API_KEY"
+ },
+ "deepseek": {
+  "aliases": [
+   "deep-seek",
+   "deepseek-chat"
+  ],
+  "env": "DEEPSEEK_API_KEY"
+ },
+ "fireworks": {
+  "aliases": [
+   "fireworks-ai",
+   "fw"
+  ],
+  "env": "FIREWORKS_API_KEY"
+ },
+ "gemini": {
+  "aliases": [
+   "google",
+   "google-ai-studio",
+   "google-gemini"
+  ],
+  "env": "GOOGLE_API_KEY"
+ },
+ "gmi": {
+  "aliases": [
+   "gmi-cloud",
+   "gmicloud"
+  ],
+  "env": "GMI_API_KEY"
+ },
+ "huggingface": {
+  "aliases": [
+   "hf",
+   "hugging-face",
+   "huggingface-hub"
+  ],
+  "env": "HF_TOKEN"
+ },
+ "kilocode": {
+  "aliases": [
+   "kilo",
+   "kilo-code",
+   "kilo-gateway"
+  ],
+  "env": "KILOCODE_API_KEY"
+ },
+ "kimi-coding": {
+  "aliases": [
+   "kimi",
+   "kimi-for-coding",
+   "moonshot"
+  ],
+  "env": "KIMI_API_KEY"
+ },
+ "kimi-coding-cn": {
+  "aliases": [
+   "kimi-cn",
+   "moonshot-cn"
+  ],
+  "env": "KIMI_CN_API_KEY"
+ },
+ "lmstudio": {
+  "aliases": [],
+  "env": "LM_API_KEY"
+ },
+ "meta-ai": {
+  "aliases": [
+   "meta",
+   "model-api",
+   "msl",
+   "muse",
+   "muse-spark"
+  ],
+  "env": "MODEL_API_KEY"
+ },
+ "minimax": {
+  "aliases": [
+   "mini-max"
+  ],
+  "env": "MINIMAX_API_KEY"
+ },
+ "minimax-cn": {
+  "aliases": [
+   "minimax-china",
+   "minimax_cn"
+  ],
+  "env": "MINIMAX_CN_API_KEY"
+ },
+ "nebius-token-factory": {
+  "aliases": [
+   "nebius",
+   "nebius-tf",
+   "nebius-tokenfactory",
+   "token-factory",
+   "tokenfactory"
+  ],
+  "env": "NEBIUS_API_KEY"
+ },
+ "novita": {
+  "aliases": [
+   "novita-ai",
+   "novitaai"
+  ],
+  "env": "NOVITA_API_KEY"
+ },
+ "nvidia": {
+  "aliases": [
+   "build-nvidia",
+   "nemotron",
+   "nim",
+   "nvidia-nim"
+  ],
+  "env": "NVIDIA_API_KEY"
+ },
+ "ollama-cloud": {
+  "aliases": [
+   "ollama_cloud"
+  ],
+  "env": "OLLAMA_API_KEY"
+ },
+ "opencode-go": {
+  "aliases": [
+   "go",
+   "opencode-go-sub",
+   "opencode_go"
+  ],
+  "env": "OPENCODE_GO_API_KEY"
+ },
+ "opencode-zen": {
+  "aliases": [
+   "opencode",
+   "opencode_zen",
+   "zen"
+  ],
+  "env": "OPENCODE_ZEN_API_KEY"
+ },
+ "openrouter": {
+  "aliases": [
+   "or"
+  ],
+  "env": "OPENROUTER_API_KEY"
+ },
+ "router": {
+  "aliases": [
+   "ramp",
+   "ramp-router",
+   "router.com"
+  ],
+  "env": "RAMP_ROUTER_API_KEY"
+ },
+ "stepfun": {
+  "aliases": [
+   "step",
+   "stepfun-coding-plan"
+  ],
+  "env": "STEPFUN_API_KEY"
+ },
+ "tencent-tokenhub": {
+  "aliases": [],
+  "env": "TOKENHUB_API_KEY"
+ },
+ "upstage": {
+  "aliases": [
+   "solar"
+  ],
+  "env": "UPSTAGE_API_KEY"
+ },
+ "xai": {
+  "aliases": [
+   "grok",
+   "x-ai",
+   "x.ai"
+  ],
+  "env": "XAI_API_KEY"
+ },
+ "xiaomi": {
+  "aliases": [
+   "mimo",
+   "xiaomi-mimo"
+  ],
+  "env": "XIAOMI_API_KEY"
+ },
+ "zai": {
+  "aliases": [
+   "glm",
+   "z-ai",
+   "z.ai",
+   "zhipu"
+  ],
+  "env": "GLM_API_KEY"
+ }
+}
